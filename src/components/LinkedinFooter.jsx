@@ -1,5 +1,5 @@
 const LinkedinFooter = () => {
-  return <div>FOOTER</div>
+  return <div>FOOTER LINKEDIN</div>
 }
 
 export default LinkedinFooter
